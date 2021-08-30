@@ -1,0 +1,1 @@
+simple footer# my-components
